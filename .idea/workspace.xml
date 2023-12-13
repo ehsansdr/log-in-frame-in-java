@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="upload 4 commit" />
+    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="upload 5 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -96,7 +122,19 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۶" />
       <updated>1702446832750</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎۰۰۰۰۷" summary="upload 5 commit">
+      <created>1702447068338</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۷" />
+      <updated>1702447068338</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۸" summary="upload 5 commit">
+      <created>1702447429291</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۸" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۸" />
+      <updated>1702447429291</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +148,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -127,6 +165,7 @@
     <MESSAGE value="upload commit" />
     <MESSAGE value="upload 2 commit" />
     <MESSAGE value="upload 4 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload 4 commit" />
+    <MESSAGE value="upload 5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload 5 commit" />
   </component>
 </project>
