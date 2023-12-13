@@ -12,7 +12,7 @@ import java.util.HashMap;
 @Data
 public class LogFrame extends JFrame implements ActionListener {
 
-    //datas
+    //data
     private String ID ;
     private String password ;
 
