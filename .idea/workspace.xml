@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="upload 3 commit" />
+    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="upload 4 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +84,19 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
       <updated>1702444734101</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎۰۰۰۰۵" summary="upload 4 commit">
+      <created>1702446768852</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۵" />
+      <updated>1702446768852</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۶" summary="upload 4 commit">
+      <created>1702446832750</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۶" />
+      <updated>1702446832750</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,7 +104,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -102,6 +126,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="upload commit" />
     <MESSAGE value="upload 2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload 2 commit" />
+    <MESSAGE value="upload 4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload 4 commit" />
   </component>
 </project>
