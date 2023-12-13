@@ -147,11 +147,11 @@ public class LogFrame extends JFrame implements ActionListener {
 
 
         frame.setTitle("Log in");
-        frame.setSize(WIDTH_FRAME + 14, HEIGHT_FRAME + 16);
+        frame.setSize(WIDTH_FRAME + 18, HEIGHT_FRAME + 22);
         frame.setLocation(X_FRAME,Y_FRAME);
         frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
         frame.setVisible(true);
-        frame.setResizable(false);
+        frame.setResizable(true);
         frame.getContentPane().setBackground(new Color(0x003566));
         frame.setIconImage(logo.getImage());
         frame.setLayout(null);
