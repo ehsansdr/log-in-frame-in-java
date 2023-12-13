@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="first commit">
+    <list default="true" id="3220f9ea-02fb-479d-8985-babbe0f6bf7d" name="Changes" comment="upload 2 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,25 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
       <updated>1702392027364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎۰۰۰۰۲" summary="first commit">
+      <created>1702444562736</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1702444562736</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۳" summary="upload commit">
+      <created>1702444603970</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1702444603970</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۴" summary="upload 2 commit">
+      <created>1702444734101</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1702444734101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="upload commit" />
+    <MESSAGE value="upload 2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload 2 commit" />
   </component>
 </project>
