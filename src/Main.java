@@ -6,7 +6,7 @@ public class Main {
         new LogFrame();
 
 
-        //or
+        //or .......................................
         //new Logframe(new hashmap);
         //and declare your own hash map concludes with name and password...
         
